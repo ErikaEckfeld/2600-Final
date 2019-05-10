@@ -27,6 +27,7 @@ Read more about these here:
 
 
 If you are thinking you want to implement facial recognition or any biometric authentication into a project or system, consider this graph.
+![graph](https://github.com/ErikaEckfeld/2600-Final/blob/master/facial%20recognition.jpeg "graph")
 
 
 
