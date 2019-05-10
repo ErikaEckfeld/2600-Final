@@ -27,12 +27,14 @@ Read more about these here:
 
 
 If you are thinking you want to implement facial recognition or any biometric authentication into a project or system, consider this graph.
+
+
 ![graph](https://github.com/ErikaEckfeld/2600-Final/blob/master/facial%20recognition.jpeg "graph")
 
 
+I hope that this tutorial helped you gain information about facial recognition properties and biometic authentican security in general. 
 
-
-DISCLAIMER: This is for educational purposes only, I do not own the viedo or pictures used.
+*DISCLAIMER: This is for educational purposes only, I do not own the viedo or pictures used.*
 
 
  
