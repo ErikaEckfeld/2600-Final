@@ -23,7 +23,7 @@ This technology is one of the newest and is widely used bu millions of iphone us
 * Phone companies
 * Etc.
 
-Read more about these [here:](hhttps://github.com/ErikaEckfeld/2600-Final/blob/master/secondPage.md)
+Read more about these [here:](https://github.com/ErikaEckfeld/2600-Final/blob/master/secondPage.md)
 
 
 If you are thinking you want to implement facial recognition or any biometric authentication into a project or system, consider this graph.
