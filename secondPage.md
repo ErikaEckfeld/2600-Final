@@ -1,4 +1,4 @@
-# Airports, Law Enforcement, The Government, Retailers, Phone Companies, and More
+# Airports, Law Enforcement, Retailers, Phone Companies, and More
 
 v v v Learn more about industires that utilize facial recognition technology below v v v 
 
@@ -11,11 +11,11 @@ Today, **14 different airports** are now using facial recognition to identify fa
 
 The FBI is a huge user of facial recognition to track down suspects and identify them. Plainly, you pretty much can never get away with anything because the U.S. government’s facial recognition powers. They use **Elastic Bunch Graph Matching** which is a type of facial recognition that assumes that faces have many **nonlinear features** including pose, expression, lighting, and more. While there have been many successes from facial recognition, one of the most significant was when it helped the U.S. government detect **Osama Bin Laden** for capture in 2011. Though the FBI has the highest end of facial recognition technology, rapid growth and pace is needed to keep up with those minds who try to dodge their methods of identification.
 
-## The Government
 
 ## Retailers
 
 Alike the FBI, they use facial recognition for purposes of security and catching suspects in shoplifting crimes. An increasing number of retailers are now using facial recognition technology to **catch shoplifters** to stop the massive revenue loss they face each year as a result of uncaught theft. Some companies use software that allows them to **download faces of customers** that have previously shoplifted so they can spy on them as they return. The algorithm behind “FaceFirst” technology has become so advanced that it can detect faces even with disguises/distractions. Facial recognition is not just used for security purposes and also encompasses things like capturing **demographics data on crowds**. This is a game changing strategy for the marketing side of a company so that they can see who is purchasing their goods and cater to the according crowds of people. 
+
 
 ## Phone Companies
 
